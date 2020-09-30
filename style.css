@@ -15,7 +15,7 @@ p{
     font-size: 24px;
     line-height: 50px;
 }
-.navbar{
+.navbar{               /* this is used to apply style to navbar using css*/
     position: fixed;
     display: flex;
     justify-content: center;
