@@ -4,3 +4,7 @@ https://www.zoho.com/covid/fork-this.html   https://www.zoho.com/covid/
 -covid-19 game from codepen https://codepen.io/faisal-jawed/pen/NWqeRNZ
 -make the website relative(relative layout, components and shit)
 -top 5 news articles will also be displayed in the Dashboard page after theuser chooses a region from dropdown
+
+
+latest to-do :
+-implement about the creators section in main website
