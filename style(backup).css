@@ -17,7 +17,7 @@ p{
     line-height: 50px;
 }
 .navbar{    
-    /*overflow: hidden;*/    
+    /* overflow: hidden;     */
     font-family: century gothic;      
     position: fixed;
     display: flex;
