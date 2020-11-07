@@ -8,3 +8,6 @@ https://www.zoho.com/covid/fork-this.html   https://www.zoho.com/covid/
 
 latest to-do :
 -implement about the creators section in main website
+
+latest : 
+do something about back up files because site isn't displaying the real page due to old and new fiels interfering

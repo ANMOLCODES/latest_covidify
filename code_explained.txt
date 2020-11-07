@@ -1,0 +1,20 @@
+index1.html - main/index HTML file that comtains the contents of the whole website and links to the other pages such as hraphs and map
+index(backup).html - backup and sort of an old version of the site that i like to keep for safekeeping
+
+style1.css - main css file that styles the indexq.html
+style(backup).css - backup and sort of an old version of the main css file that i like to keep for safekeeping
+
+map.html - self explanatory, it contains the html elements that are needed for the map page to work
+mapstyle.css - one & only css file for map page
+mapscript.js - javascript file that contains the code that we took from the API that helps us fetch the live data and helps us update it on the map
+
+oldmap.html - self explanatory, it contains the html elements that are needed for the old map page to work, we updates the last map because it wasn't as interactive, looked ugly and wasn't being updated live. we used internal styling instead of making a separate css file for styling purposes, which is a bad habit
+oldamp.js - this javascript file contains the code that we need to make the old map work and to display the red dots according to the number of cases
+
+scrollbar.css - this is the css file for styling the custom scrollbar, it is attached via link tag in the head of index1.html
+
+tables.html - connected on the main website in the navbar using the graphs button which will be changed later when rohit implements the Graphs using js frameworks for charts or graphs , was made using RAPID API
+stylefortables.css - stylesheet for styling the stats page
+
+todo.txt - self explanatory
+
